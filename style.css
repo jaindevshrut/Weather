@@ -1,0 +1,18 @@
+body{
+    background: rgb(238, 236, 230);
+    letter-spacing: 0.2em;
+    font-size: 0.8em;
+}
+.container{
+    max-width: 400px;
+}
+h1{
+    text-align: center;
+}
+.icon{
+    position: relative;
+    top: -50px;
+    border-radius: 50%;
+    width: 100px;
+    margin-bottom: -50px;
+}
